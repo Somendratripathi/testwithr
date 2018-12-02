@@ -1,3 +1,2 @@
 print("Crap")
-,scml,
-slklnclkmas
+
